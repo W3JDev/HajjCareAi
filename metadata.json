@@ -1,0 +1,9 @@
+{
+  "name": "HajjCareAi",
+  "description": "An accessibility-focused companion app for elderly Hajj pilgrims. Created by w3jdev.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}

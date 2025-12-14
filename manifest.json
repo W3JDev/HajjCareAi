@@ -1,0 +1,41 @@
+{
+  "name": "HajjCare - Pilgrim Companion",
+  "short_name": "HajjCare",
+  "description": "An accessibility-focused companion app for elderly Hajj pilgrims, featuring health tracking, SOS, translation, and Gemini-powered guides.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#2ECC71",
+  "orientation": "portrait",
+  "id": "/",
+  "categories": ["medical", "travel", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659837.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659837.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659837.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1565552629477-ff7285289419?auto=format&fit=crop&w=500&q=80",
+      "sizes": "500x889",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Home Screen"
+    }
+  ]
+}
